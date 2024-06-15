@@ -14,6 +14,7 @@ So_Long is a minimalistic 2D game developed as part of a project to learn the ba
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
+- [Game_prototype][#Game_prototype]
 
 ## Introduction
 So_Long is a simple 2D game where the player navigates through a maze to collect items and reach an exit. The project is designed to provide hands-on experience with basic game mechanics and graphics programming using the MinilibX library.
