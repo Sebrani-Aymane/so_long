@@ -78,7 +78,8 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 Acknowledgements
 
-    The developers of MinilibX
+    The developers of MinilibX<img width="822" alt="Screen Shot 2024-06-15 at 6 01 35 AM" src="https://github.com/Sebrani-Aymane/so_long/assets/123418261/eef258bf-3e96-4f7e-8f46-4f485dc0f6f6">
+
     The open-source community for providing numerous resources and tutorials
 
 markdown
@@ -98,3 +99,5 @@ markdown
 - **Acknowledgements**: Credits and thanks.
 
 Feel free to customize this template to better suit the specifics of your "So_Long" project.
+
+<img width="823" alt="Screen Shot 2024-06-15 at 6 03 39 AM" src="https://github.com/Sebrani-Aymane/so_long/assets/123418261/a2d4a327-b27a-4be6-94b1-6db391e3e989">
